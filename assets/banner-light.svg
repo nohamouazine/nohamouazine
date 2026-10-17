@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Noham Ouazine, co-founder of ParadoxalAI">
+  <rect width="1200" height="300" rx="18" fill="#FCFCFB"/>
+  <g transform="translate(92 86) scale(0.1671)" fill="#2647A6">
+    <path d="M0 200C0 90 97 0 218 0C320 0 408 73 408 173C408 250 365 292 284 308C199 324 146 381 146 455V526C146 541 136 551 122 551H25C10 551 0 541 0 526Z"/>
+    <path d="M0 200C0 90 97 0 218 0C320 0 408 73 408 173C408 250 365 292 284 308C199 324 146 381 146 455V526C146 541 136 551 122 551H25C10 551 0 541 0 526Z" transform="translate(616 766) rotate(180)"/>
+  </g>
+  <text x="228" y="148" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="58" fill="#18181B">Noham Ouazine</text>
+  <text x="231" y="192" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#2647A6">Co-founder of ParadoxalAI</text>
+  <text x="231" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#5F5F66">AI that runs on your own devices, built in France.</text>
+  <line x1="1108" y1="64" x2="1108" y2="236" stroke="#E4E4E0" stroke-width="2"/>
+  <text x="1084" y="236" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5F5F66">paradoxalai.vercel.app</text>
+</svg>
