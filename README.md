@@ -1,29 +1,31 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" alt="Noham Ouazine, co-founder of ParadoxalAI" width="100%">
+  <img src="./assets/banner-light.svg" alt="ParadoxalAI, by Noham Ouazine" width="100%">
 </picture>
 
-Hi, I'm Noham. I build software in France, and with my friend [Reel](https://github.com/Vyn042) I run **[ParadoxalAI](https://paradoxalai.vercel.app)**: we train our own AI models and build the apps they live in.
+Hi, I'm Noham. I'm 16, I live in France, and with my friend [Reel](https://github.com/Vyn042) I run **[ParadoxalAI](https://paradoxalai.vercel.app)**.
 
-### ParadoxalAI
+We train our own language model, **Vertigo**, from scratch: our code, our data, our training runs, on a gaming graphics card. Not a model from somewhere else with a new coat of paint. It is small, it is honest, and it is ours.
+
+### What we build
 
 | | |
 |---|---|
-| **Vertigo** | A French assistant that runs on your own phone or computer, even offline. It looks facts up instead of guessing, and every answer comes with a receipt: who answered and what was checked. |
+| **Vertigo** | A French assistant that runs on your own phone or computer, even offline. It looks facts up instead of guessing, and every answer comes with a receipt: who answered and what was checked. Nothing you write leaves your device. |
+| **PARADOXAL Code** | A coding agent in the desktop app and in your terminal. It reads your project, proposes a plan, and changes nothing without your yes. Works with our model, or with the one you already use. |
 | **PARADOXAL-R** | A small model that solves the hardest Sudoku grids and checks its own answer. |
-| **PARADOXAL Entreprises** | Reads a company's accounts and finds the money that slips away, on the company's own servers. |
-| **Paradoxal IDE** | A coding agent for Windows that reads your project, makes a plan, and asks before it writes. |
+| **Möbi** | Our mascot. A loop with one side, in pixels. It looks around while Vertigo thinks. |
 
-**Try it:** [chat in your browser or on your phone](https://paradoxalai.vercel.app/chat) · [desktop app for Windows, macOS and Linux](https://paradoxalai.vercel.app/download)
+**Try it:** [chat on your phone or in your browser](https://paradoxalai.vercel.app/chat) · [desktop app](https://paradoxalai.vercel.app/download) · [terminal, one command](https://paradoxalai.vercel.app/cli)
 
-### Also
+### How we work
 
-**[OpenReverse](https://github.com/nohamouazine/openreverse)**, an open-source reverse-engineering workspace for Windows: PE analysis, disassembly, cross-references and control-flow graphs.
+A small model, given time to think. A lab that tests one idea at a time, overnight, and keeps only what the numbers confirm. Everything we ship runs on the device of the person using it.
 
 ### What I work with
 
-C++ and Win32 · TypeScript, React and Next.js · Electron · Python and PyTorch
+Python and PyTorch · TypeScript, React and Next.js · Electron · C++ and Win32
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/noham-ouazine-245620348/) · [paradoxalai.vercel.app](https://paradoxalai.vercel.app)
+[paradoxalai.vercel.app](https://paradoxalai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/noham-ouazine-245620348/)
