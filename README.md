@@ -5,7 +5,7 @@
 
 Hi, I'm Noham. I'm 16, I live in France, and with my friend [Reel](https://github.com/Vyn042) I run **[ParadoxalAI](https://paradoxalai.vercel.app)**.
 
-We train our own language model, **Vertigo**, from scratch: our code, our data, our training runs, on a gaming graphics card. Not a model from somewhere else with a new coat of paint. It is small, it is honest, and it is ours.
+We train our own language model, **Vertigo**: our code, our data, our training runs, on a gaming graphics card. It is small, it is honest, and it is ours.
 
 ### What we build
 
