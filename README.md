@@ -11,7 +11,7 @@ We don't build on top of someone else's AI. We train our own language models: ou
 
 | | |
 |---|---|
-| **Vertigo** | A French assistant that runs on your phone or computer, even offline. It reads its sources before it answers, and every answer comes with a receipt: what was read, what was checked. Share the receipt and anyone can replay the check. |
+| **Vertigo** | A French assistant that runs on your phone or computer, even offline. It reads its sources before it answers, and every answer comes with a receipt: what was read, what was checked. Share the receipt and anyone can replay the check. Vertigo 3 is open: [nohamouazine/vertigo](https://github.com/nohamouazine/vertigo) (weights, engine, bench, Apache 2.0). |
 | **PARADOXAL Code** | A coding agent in the desktop app and in your terminal. It reads your project, plans, writes one file at a time, runs your checks and fixes what breaks, and changes nothing without your yes. |
 | **PARADOXAL Entreprises** | Drop a company's accounting export (FEC) in the browser and it finds the money being lost: unpaid invoices, double payments, costs going up. It writes the reminder letters and projects the cash 90 days ahead. Nothing is uploaded. |
 | **weareparisOS** | Our own build of Windows 11 Pro for gaming PCs, and the app that keeps it tuned. Coming soon. |
